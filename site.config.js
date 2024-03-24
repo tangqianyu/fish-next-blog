@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://tangqianyu.github.io',
   // icon 请在 src/components/Profile.tsx 中修改
   links: [
-    { name: 'GitHub', link: 'https://github.com/xiaojundebug' },
+    { name: 'GitHub', link: 'https://github.com/tangqianyu' },
     { name: 'X', link: '' },
     { name: '稀土掘金', link: '' },
     { name: 'RSS', link: '/feed.xml' },
