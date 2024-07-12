@@ -1,6 +1,6 @@
 module.exports = {
-  name: 'Tangqy',
-  title: 'Tang qy',
+  name: 'Quentin',
+  title: 'Quentin Tang',
   description: 'Front-End Developer',
   avatar: '/avatar.jpg',
   logo: '/logo.png',
